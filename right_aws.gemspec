@@ -1,6 +1,3 @@
-(in /Users/ianneubert/Documents/Code/right_aws)
-# -*- encoding: utf-8 -*-
-
 Gem::Specification.new do |s|
   s.name = %q{right_aws}
   s.version = "1.10.1"
